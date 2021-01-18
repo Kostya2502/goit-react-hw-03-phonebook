@@ -1,0 +1,14 @@
+.item {
+  display: flex;
+  width: 400px;
+  justify-content: space-between;
+  margin-bottom: 15px;
+  border: 2px solid #be9e9e;
+}
+
+.button {
+  width: 80px;
+  color: #fff;
+  background-color: #f04c00;
+  border-radius: 4px;
+}
